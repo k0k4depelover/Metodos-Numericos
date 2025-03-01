@@ -11,4 +11,6 @@
 >
 >*-Signos opuestos al evaluar:*
 
-Enlace para acceder al programa: [https://github.com/k0k4depelover/Metodos-Numericos/blob/main/MetodoBiseccion.py]([#this-heading-is-not-unique-in-the-file-1]).
+<a name="Metodo de bisección. "></a>
+Enlace para acceder al codigo.
+[[A link to that custom anchor](https://github.com/k0k4depelover/Metodos-Numericos/blob/main/MetodoBiseccion.py)](#my-custom-anchor-point)
