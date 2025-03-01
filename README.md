@@ -13,4 +13,4 @@
 
 <a name="Metodo de bisección. "></a>
 Enlace para acceder al codigo.
-[[A link to that custom anchor](https://github.com/k0k4depelover/Metodos-Numericos/blob/main/MetodoBiseccion.py)](#my-custom-anchor-point)
+[https://github.com/k0k4depelover/Metodos-Numericos/blob/main/MetodoBiseccion.py](#my-custom-anchor-point)
