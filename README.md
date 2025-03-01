@@ -11,6 +11,8 @@
 >
 >*-Signos opuestos al evaluar:*
 
-<a name="Metodo de bisección. "></a>
-Enlace para acceder al codigo.
-[https://github.com/k0k4depelover/Metodos-Numericos/blob/main/MetodoBiseccion.py](#my-custom-anchor-point)
+### Método de Bisección
+
+Puedes acceder al código en el siguiente enlace:
+
+🔗 [Ver código en GitHub](https://github.com/k0k4depelover/Metodos-Numericos/blob/main/MetodoBiseccion.py)
